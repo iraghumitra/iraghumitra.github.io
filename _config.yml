@@ -2,9 +2,9 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://iraghumitra.github.io
-title: raghum
+title: Angular2
 email: raghumitra.ksv@gmail.com
 author: RaghuMitra
-description: My awesome new site
+description: Angular 2
 paginate: 3
 google_analytics: 
