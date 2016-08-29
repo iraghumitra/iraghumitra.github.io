@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://iraghumitra.github.io
+title: raghum
+email: raghumitra.ksv@gmail.com
+author: RaghuMitra
+description: My awesome new site
+paginate: 3
+google_analytics: 
