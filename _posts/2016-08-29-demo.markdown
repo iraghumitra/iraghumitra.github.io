@@ -1,6 +1,7 @@
 ---
 published: true
-title: Demo
+title: Debugging Angular2 in Safari
 layout: post
 ---
-Demo
+The transpiled JS files are not visible by default on the safari dev tools. To view the files we need to Disable Local file restrictions 
+
